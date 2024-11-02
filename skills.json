@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Java SE",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
+    },
+    {
+        "name": "Spring Data JPA",
+        "icon": "https://img.icons8.com/color/48/000000/database.png"
+    },
+    {
+        "name": "Spring Security",
+        "icon": "https://img.icons8.com/color/48/000000/security-checked.png"
+    },
+    {
+        "name": "Hibernate",
+        "icon": "./assets/images/skills/h.jpg"
+    },
+    {
+        "name": "MyBatis",
+        "icon": "./assets/images/skills/my.png"
+    },
+    {
+        "name": "Liquibase",
+        "icon": "https://img.icons8.com/fluency/48/000000/database.png"
+    },
+    {
+        "name": "Oracle",
+        "icon": "https://img.icons8.com/color/48/000000/oracle-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "PL/SQL",
+        "icon": "https://img.icons8.com/color/48/000000/sql.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "REST APIs",
+        "icon": "https://img.icons8.com/color/48/000000/api-settings.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/000000/linux.png"
+    },
+    {
+        "name": "Data Structures",
+        "icon": "./assets/images/skills/d.png"
+    },
+    {
+        "name": "Algorithms",
+        "icon": "./assets/images/skills/a.jpg"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/dusk/48/000000/postman-api.png"
+    },
+    {
+        "name": "Swagger UI",
+        "icon": "./assets/images/skills/swg.png"
+    }
+]
