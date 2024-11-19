@@ -16,6 +16,10 @@
         "icon": "https://img.icons8.com/color/48/000000/security-checked.png"
     },
     {
+        "name": "Microservices",
+        "icon": "./assets/images/skills/ms.jpg"
+    },
+    {
         "name": "Hibernate",
         "icon": "./assets/images/skills/h.jpg"
     },
@@ -82,5 +86,13 @@
     {
         "name": "Swagger UI",
         "icon": "./assets/images/skills/swg.png"
+    },
+    {
+        "name": "Zipkin",
+        "icon": "./assets/images/skills/z.png"
+    },
+    {
+        "name": "Microcks",
+        "icon": "./assets/images/skills/mc.png"
     }
 ]
